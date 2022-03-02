@@ -1,0 +1,10 @@
+footer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+  font-weight: bolder;
+}
